@@ -24,7 +24,7 @@ architectures using local Bayesian regressions".*
 
 ## Description of data
 
-#### Genotypes
+### Genotypes
 
 Genotypes supplied in this repository were simulated using knowledge of real LD patterns.
 
@@ -32,7 +32,7 @@ Briefly, genotypes for SNP<sub>j</sub> were randomly sampled from the
 conditional distribution of SNP<sub>j</sub> given SNP<sub>j-1</sub>, in which the
 conditional distribution was estimated using UK Biobank genotypes.
 
-#### Phenotypes
+### Phenotypes
 
 A small dataset (**N = 5000**) is provided here so that one can easily test these
 methods on their personal computer.
